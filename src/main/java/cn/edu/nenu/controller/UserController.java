@@ -14,12 +14,6 @@ import org.springframework.web.servlet.mvc.support.RedirectAttributes;
 import javax.servlet.ServletRequest;
 import java.util.List;
 
-/**
- * UserController Class
- *
- * @author <b>Oxidyc</b>, Copyright &#169; 2003
- * @version 1.0, 2020-03-04 22:54
- */
 @CommonsLog
 @Controller
 @RequestMapping("/user")
